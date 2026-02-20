@@ -2,3 +2,4 @@ This project contains shell scripts for I/O redirections and filters.
 Prints a confused smiley.
 Display content 
 Display the content of /etc/passwd and /etc/hosts
+Task-4 Display the last 10 lines
