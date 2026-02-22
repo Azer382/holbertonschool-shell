@@ -16,3 +16,5 @@ Task 15 Display the number of lines that contain the pattern "bin" in the file /
 Task 17 Display all the lines in the file /etc/passwd that do not contain the pattern "bin".
 Task 19 Replace all characters A and c from input to Z and e respectively.
 Task 18 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+Task 20 Create a script that removes all letters c and C from input.
+
